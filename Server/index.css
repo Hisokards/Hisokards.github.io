@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.Z{
+display: flex;
+width: 70cm;
+font-size: 80px;
+background-color: #e98be4a9;
+border: 8px solid;
+border-color: #e3abeb;
+text-align: center;
+
+}
+.parent{
+    display: flex;
+    padding: 50px;
+}
+div{
+    text-align: center;
+    font-size: 50px;
+    background-color: #b809afa9;
+    min-height: 500px;
+}
